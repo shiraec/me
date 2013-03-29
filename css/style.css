@@ -1,0 +1,153 @@
+/* html5doctor.com Reset v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/) - http://cssreset.com */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
+ins{background-color:#ff9;color:#000;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+
+
+
+h1{
+	font-family: KG Seven Sixteen;
+	font-size: 60px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	position: relative;
+	top:-190px; 
+	left: 300px; 
+}
+
+span{
+	font-family: KG Seven Sixteen;
+	font-size: 35px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+
+
+}
+
+p:first-child{
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	line-height: 24px;
+	position: relative;
+	left:850px;
+	top:-140px;
+}
+
+p:nth-child(2){
+	font-family: KG Seven Sixteen;
+	font-size: 35px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	position: relative;
+	left:850px;
+	top: -90px;
+}
+
+img:first-child{
+	position: relative; 
+	left: 300px;
+	top: 150px
+
+}
+
+img:nth-child(2){
+	position: relative; 
+	left: 315px;
+	top: 150px
+
+}
+
+img:nth-child(3){
+	position: relative; 
+	left: 330px;
+	top: 150px
+
+}
+
+img:nth-child(4){
+	position: relative; 
+	right: 140px;
+	top: 355px
+
+}
+
+img:nth-child(5){
+	position: relative; 
+	right: 125px;
+	top: 355px
+
+}
+
+img:nth-child(6){
+	position: relative; 
+	right: 110px;
+	top: 355px
+
+}
+
+img:nth-child(7){
+	position: relative; 
+	right: 580px;
+	top: 560px
+
+}
+
+img:nth-child(8){
+	position: relative; 
+	right: 565px;
+	top: 560px
+
+}
+
+img:nth-child(9){
+	position: relative; 
+	right: 550px;
+	top: 560px
+
+}
+
+img:nth-child(10){
+	position: relative; 
+	left: 300px;
+	top: -70px
+
+}
+
+
+a:first-child{
+	position: relative;
+	left:550px;
+	top: 30px;
+
+}
+
+a:nth-child(2){
+	position: relative;
+	left:550px;
+	top: 30px;
+
+}
+
+a:nth-child(3){
+	position: relative;
+	left:550px;
+	top: 30px;
+
+}
+
+
+
+
