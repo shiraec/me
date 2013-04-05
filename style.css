@@ -1,0 +1,282 @@
+/* html5doctor.com Reset v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/) - http://cssreset.com */
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent}
+ins{background-color:#ff9;color:#000;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+
+
+
+h1{
+	font-family: KG Seven Sixteen;
+	font-size: 60px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	position: relative;
+	top:-190px; 
+	left: 300px; 
+}
+
+span{
+	font-family: KG Seven Sixteen;
+	font-size: 35px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+
+
+}
+
+p:first-child{
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	line-height: 24px;
+	position: relative;
+	left:850px;
+	top:-140px;
+}
+
+p:nth-child(2){
+	font-family: KG Seven Sixteen;
+	font-size: 35px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+	position: relative;
+	left:850px;
+	top: -90px;
+}
+
+p:nth-child(3){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 320px;
+	top: -170px;
+}
+
+p:nth-child(4){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 395px;
+	top: -170px;
+}
+
+p:nth-child(5){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 480px;
+	top: -170px;
+}
+
+p:nth-child(6){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 110px;
+	top: 25px;
+}
+
+p:nth-child(7){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 220px;
+	top: 25px;
+}
+
+p:nth-child(8){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 315px;
+	top: 25px;
+}
+
+p:nth-child(9){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: -40px;
+	top: 225px;
+}
+
+p:nth-child(10){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 60px;
+	top: 225px;
+}
+
+p:nth-child(11){
+	font-family: KG Seven Sixteen;
+	font-size: 19px;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	position: relative;	
+	color: white;
+	background-color: rgba(225,225,225,0.65);
+	display: inline-block;
+	position: relative;
+	left: 160px;
+	top: 225px;
+}
+
+
+
+
+img:first-child{
+	position: relative; 
+	left: 300px;
+	top: 150px
+
+}
+
+img:nth-child(2){
+	position: relative; 
+	left: 305px;
+	top: 150px
+
+}
+
+img:nth-child(3){
+	position: relative; 
+	left: 310px;
+	top: 150px
+
+}
+
+img:nth-child(4){
+	position: relative; 
+	right: 141px;
+	top: 345px
+
+}
+
+img:nth-child(5){
+	position: relative; 
+	right: 136px;
+	top: 345px
+
+}
+
+img:nth-child(6){
+	position: relative; 
+	right: 131px;
+	top: 345px
+
+}
+
+img:nth-child(7){
+	position: relative; 
+	right: 583px;
+	top: 540px
+
+}
+
+img:nth-child(8){
+	position: relative; 
+	right: 578px;
+	top: 540px
+
+}
+
+img:nth-child(9){
+	position: relative; 
+	right: 573px;
+	top: 540px
+
+}
+
+img:nth-child(10){
+	position: relative; 
+	left: 298px;
+	top: -70px
+
+}
+
+
+a:first-child{
+	position: relative;
+	left:550px;
+	top: 30px;
+
+}
+
+a:nth-child(2){
+	position: relative;
+	left:550px;
+	top: 30px;
+
+}
+
+a:nth-child(3){
+	position: relative;
+	left:550px;
+	top: 30px;
+
+}
+
+
+
+
